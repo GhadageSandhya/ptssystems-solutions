@@ -1,0 +1,369 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: skyblue; */
+}
+
+/* form here start the css of navbar section */
+
+.nav-body {
+  /* background-color: rgb(86, 199, 199); */
+  background-color: rgb(169, 198, 237);
+  height: 550px;
+  padding: 30px;
+}
+
+.nav-body-white {
+  background-color: white;
+  height: 380px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.nav-img-style {
+  height: 20px;
+
+}
+
+.nav-img-style .nav-text {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.nav-img-style .head {
+  width: 100%;
+  margin: 40px;
+}
+
+.head .btn,
+.mis-vis .dream-misvisBtn {
+  background-color: rgb(74, 202, 211);
+  color: white;
+  border-radius: 6px;
+  border: none;
+  padding: 6px;
+  cursor: pointer;
+}
+
+.d-flex .btn {
+  border: 1px solid rgb(216, 143, 6);
+  color: black;
+  font-size: 13px;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: black;
+  font-size: 14px;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+
+  text-decoration: underline orange;
+}
+
+/* bio dream mission vission */
+
+.bio-dream {
+  margin-top: 7%;
+}
+
+.img-dreamBio img {
+  position: relative;
+  left: 180px;
+  top: 60px;
+  opacity: 0.7;
+}
+
+.img-bg-color {
+  background-color: rgb(255, 220, 48);
+  width: 60%;
+  height: 390px;
+  position: sticky;
+}
+
+.mis-vis {
+  padding: 61px 201px 8px 5px;
+}
+
+.mis-vis h3 {
+  color: rgb(74, 202, 211);
+  font-size: 23px;
+  font-weight: 700;
+}
+
+.mis-vis h5 {
+  color: rgb(255, 220, 48);
+  font-size: 14px;
+}
+
+.mis-vis p {
+  font-size: 12px;
+}
+
+.main-services {
+  margin-top: 7%;
+}
+
+.main-services .head h2 {
+  color: rgb(74, 202, 211);
+  font-size: 23px;
+  float: right;
+}
+
+.main-services .para p {
+  font-size: 13px;
+  padding-right: 25%;
+}
+
+.services-cards .card1 p {
+  font-size: 13px;
+
+}
+
+.services-cards .card1 {
+  padding: 35px;
+  box-shadow: 10px 10px -10px 10px black;
+
+}
+
+.services-cards .card1 h5 {
+  color: rgb(74, 202, 211);
+  /* float: right; */
+}
+
+.card-items {
+  padding: 50px;
+  margin: 0px 50px 0px 50px;
+  border-radius: 15px;
+  box-shadow: 0px 0px 5px 1px rgb(203, 200, 200);
+  background-color: white;
+}
+
+.services-body {
+  /* background-color: rgb(74, 202, 211); */
+  background-color: rgb(169, 198, 237);
+  height: -20%;
+}
+
+
+/* from here start the css of global presence */
+.globalpresence {
+  padding: 10px;
+  color: skyblue;
+  font-weight: 700;
+  font-size: 34px;
+  border-bottom: 3px solid rgb(248, 203, 120);
+  /* border-bottom-width: 20%; */
+}
+
+.lorempara {
+  padding: 10px;
+  font-size: 14px;
+}
+
+.skyblue {
+  background-color: rgb(169, 198, 237);
+  height: 650px;
+}
+
+.buildmentalpeace {
+  color: white;
+  padding-top: 7rem;
+  font-size: 35px;
+}
+
+.loremtabletpara {
+  font-size: 14px;
+  color: whitesmoke;
+  padding-top: 10px;
+}
+
+.secondgraytab {
+  display: inline-block;
+}
+
+.graytabletloremfirst {
+  margin-left: 30px;
+  margin-top: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+#tabletappointmentsbtn {
+  width: 18%;
+}
+
+.pipesymbol {
+  color: white;
+  width: 25px;
+  height: 130px;
+  border-left: 3px solid white;
+  position: absolute;
+}
+
+
+/* from here start the css of testimonialclients */
+
+/* @media only screen and (min-width:54px) and (max-width:1400px){ */
+.yellowbg {
+  background-color: rgb(255, 225, 0);
+  /* height: 450px; */
+  margin-right: 12px;
+}
+
+/* } */
+
+
+.testimonialclients {
+  /* margin-left: 55px; */
+  color: white;
+  font-size: 34px;
+  padding-top: 25px;
+  font-weight: 600;
+  border-bottom: 3px solid skyblue;
+  padding-bottom: 8px;
+}
+
+
+.bi-star,
+.bi-star-half {
+  color: orange;
+}
+
+.seecolor {
+  background-color: skyblue;
+}
+
+/* from here start the css of our latest news & articles*/
+.ourlatestnews {
+  color: skyblue;
+  font-weight: 600;
+  font-size: 34px;
+  padding: 15px;
+  border-bottom: 3px solid rgb(248, 203, 120);
+}
+
+.card-text {
+  font-weight: 500;
+}
+
+.readmore {
+  font-weight: 500;
+}
+
+.perfectsolutions {
+  padding: 25px;
+  text-align: center;
+}
+
+.skycolortxt {
+  color: skyblue;
+}
+
+.card-title {
+  font-size: 14px;
+}
+
+/* from here start css of footer section */
+.footerbg {
+  background-color: rgb(169, 198, 237);
+}
+
+.fillouttxt {
+  text-align: center;
+  padding-top: 25px;
+  color: white;
+  font-weight: 700;
+  font-size: 45px;
+}
+
+.fillinthecontact {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 23px;
+}
+
+input value {
+  color: skyblue;
+}
+
+.footercontent {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  color: white;
+}
+
+.inaboutusfirstpara {
+  color: whitesmoke;
+}
+
+.inaboutusphone {
+  padding-top: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+.inaboutusemail {
+  padding-top: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+.usefullinkscontent {
+  color: whitesmoke;
+}
+
+.thirdcol {
+  padding-top: 25px;
+  color: whitesmoke;
+}
+
+.footerfourthcolfirst {
+  color: whitesmoke;
+}
+
+.footerfourthcolsec {
+  color: slategray;
+  text-decoration: none;
+}
+
+.footerfourthcolsec:hover {
+  color: slategray;
+  text-decoration: none;
+}
+
+.footerfourthcolthird {
+  padding-top: 10px;
+  color: whitesmoke;
+}
+
+.footerlastcolfirst {
+  color: whitesmoke;
+}
+
+.footerlastcolsec {
+  color: whitesmoke;
+}
+
+.copyright {
+  color: whitesmoke;
+  margin-top: 65px;
+}
+
+.footerspringimgbg {
+  background-color: skyblue;
+  margin-top: 45px;
+}
+
+.footerisoimgbg {
+  background-color: skyblue;
+  margin-left: 25px;
+  margin-top: 65px;
+
+}
+
+.aboutusservicesprivacy {
+  color: whitesmoke;
+  margin-top: 85px;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "ser_head": "Lorem ipsum",
+        "ser_para": "Lorem ipsum dolor sit amet,consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt utlaoreet dolore magna"
+    },
+    {
+        "id": 2,
+        "ser_head": "Lorem ipsum",
+        "ser_para": "Lorem ipsum dolor sit amet,consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt utlaoreet dolore magna"
+    },
+    {
+        "id": 3,
+        "ser_head": "Lorem ipsum",
+        "ser_para": "Lorem ipsum dolor sit amet,consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt utlaoreet dolore magna"
+    },
+    {
+        "id": 4,
+        "ser_head": "Lorem ipsum",
+        "ser_para": "Lorem ipsum dolor sit amet,consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt utlaoreet dolore magna"
+    },
+    {
+        "id": 5,
+        "ser_head": "Lorem ipsum",
+        "ser_para": "Lorem ipsum dolor sit amet,consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt utlaoreet dolore magna"
+    },
+    {
+        "id": 6,
+        "ser_head": "Lorem ipsum",
+        "ser_para": "Lorem ipsum dolor sit amet,consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt utlaoreet dolore magna"
+    }
+]
